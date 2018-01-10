@@ -8,7 +8,7 @@ weight: 10
 
 ### Installing Halcyon IDE
 
-Halcyon IDE is developed in java to make it simpler to use in all possible operating systems. Running this cannot be more simpler. Download the jar file from [here](https://github.com/s4n7h0/Halcyon/releases/download/2.0.1/Halcyon_IDE_v2.0.1jar) and run using command below.
+Halcyon IDE is developed in java to make it simpler to use in all possible operating systems. Running this cannot be more simpler. Download the jar file from [here](https://github.com/s4n7h0/Halcyon/releases/download/2.0.1/Halcyon_IDE_v2.0.1.jar) and run using command below.
 ```sh 
 java -jar Halcyon_IDE_v2.0.1jar
 ```
