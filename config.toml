@@ -1,4 +1,4 @@
-baseurl = "inspiring-panini-d97d89.netlify.com"
+baseurl = "/"
 languageCode = "en-us"
 title = "Halcyon IDE"
 theme = "halcyonide_theme"
