@@ -48,22 +48,22 @@ googleAnalytics = ""
 [[menu.main]]
 	name   = "Halcyon IDE"
 	url    = "/"
-	weight = 0
+	weight = 10
 
 [[menu.main]]
 	name   = "Getting started"
 	url    = "getting-started/"
-	weight = 10
+	weight = 20
 
 [[menu.main]]
 	name   = "Changelog"
 	url    = "changelog/"
-	weight = 20
+	weight = 30
 
 [[menu.main]]
 	name   = "Contribute"
 	url    = "contribute/"
-	weight = 30
+	weight = 40
 
 [[menu.main]]
 	name   = "License"
@@ -73,8 +73,12 @@ googleAnalytics = ""
 [[menu.main]]
 	name   = "Announcements"
 	url    = "announcements/"
-	weight = 40
+	weight = 50
 
+[[menu.main]]
+	name   = "Talks & Presentations"
+	url    = "talks/"
+	weight = 50
 
 [blackfriday]
 	smartypants	= true

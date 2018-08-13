@@ -16,7 +16,7 @@ java -jar Halcyon_IDE_v2.0.1jar
 
 ### Installing from Source
 
-You can also download the source from `git` and are free to compile the project in your own local machines. 
+You can also download the source from `git` and free to compile the project in your own machines. 
 
 ```sh
 # install dependencies 

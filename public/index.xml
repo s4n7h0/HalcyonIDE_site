@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Halcyon IDE</title>
+    <link>/</link>
+    <description>Recent content on Halcyon IDE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license</copyright>
+    <lastBuildDate>Wed, 10 Jan 2018 23:39:17 +0100</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting started</title>
+      <link>/getting-started/</link>
+      <pubDate>Wed, 10 Jan 2018 23:39:17 +0100</pubDate>
+      
+      <guid>/getting-started/</guid>
+      <description>Installation Installing Halcyon IDE Halcyon IDE is developed in java to make it simpler to use in all possible operating systems. Running this cannot be more simpler. Download the jar file from here and run using command below.
+java -jar Halcyon_IDE_v2.0.1jar  Installing from Source You can also download the source from git and free to compile the project in your own machines.
+# install dependencies apt-get install default-jre apt-get install ant # clone from git cd /opt git clone https://github.</description>
+    </item>
+    
+    <item>
+      <title>Announcements</title>
+      <link>/announcements/</link>
+      <pubDate>Wed, 10 Jan 2018 23:39:17 +0100</pubDate>
+      
+      <guid>/announcements/</guid>
+      <description>Coming soon !</description>
+    </item>
+    
+    <item>
+      <title>Changelog</title>
+      <link>/changelog/</link>
+      <pubDate>Wed, 10 Jan 2018 23:39:17 +0100</pubDate>
+      
+      <guid>/changelog/</guid>
+      <description>Version 2.0.1 (codename:Aeolus)  Design changes Refined scan settings script-args-file support Documentation update
+ Better version controlling Licence changed to MIT and some bug fixes  Release date: January 10, 2018
+Version 2.0  Stable Release Improved user interface Added more code intelligence rules Updates in code builder Easy scan configuration wizard TCP/UDP Scan Settings Post Development Actions - Export/Update Scripts Some bug fixes  Release date: March 31, 2016</description>
+    </item>
+    
+    <item>
+      <title>Contribute</title>
+      <link>/contribute/</link>
+      <pubDate>Wed, 10 Jan 2018 23:39:17 +0100</pubDate>
+      
+      <guid>/contribute/</guid>
+      <description>Quo vadis?
+Features or Bugs Currently, Halcyon IDE is maintained by the author individually. I would be happy to see more ideas for the improvement of Halcyon IDE from the community. Share your thoughts, suggest new features, do test cases, report bugs and help Halcyon IDE to grow.
+Talks If you like Halcyon IDE project, talk about it. Social media has made it easier to discuss what you like in the project or what changes you would want to see in future releases.</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>/license/</link>
+      <pubDate>Wed, 10 Jan 2018 23:39:17 +0100</pubDate>
+      
+      <guid>/license/</guid>
+      <description>Copyright &amp;copy; Sanoop Thomas @s4n7h0  [ i.am.s4n7h0@gmail.com ]
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
+    </item>
+    
+    <item>
+      <title>Halcyon IDE</title>
+      <link>/</link>
+      <pubDate>Wed, 10 Jan 2018 23:39:17 +0100</pubDate>
+      
+      <guid>/</guid>
+      <description>IDE for Nmap Script Developers Halcyon IDE lets you quickly and easily develop Nmap scripts for performing advanced scans on applications and infrastructures with a range from recon to exploitation capabilities. It is the first IDE released exclusively for Nmap script development. Halcyon IDE is free and open source project (always will be) to provide an easier development interface to rapidly growing information security community around the world.      Halcyon IDE was initially started as an evening free time “coffee shop” project and has taken a serious step for its developer/contributors to spend dedicated time for its improvements very actively.</description>
+    </item>
+    
+  </channel>
+</rss>

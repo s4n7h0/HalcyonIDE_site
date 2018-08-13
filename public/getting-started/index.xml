@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Getting-starteds on Halcyon IDE</title>
+    <link>/getting-started/</link>
+    <description>Recent content in Getting-starteds on Halcyon IDE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license</copyright>
+    <lastBuildDate>Wed, 10 Jan 2018 23:39:17 +0100</lastBuildDate>
+    
+	<atom:link href="/getting-started/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting started</title>
+      <link>/getting-started/</link>
+      <pubDate>Wed, 10 Jan 2018 23:39:17 +0100</pubDate>
+      
+      <guid>/getting-started/</guid>
+      <description>Installation Installing Halcyon IDE Halcyon IDE is developed in java to make it simpler to use in all possible operating systems. Running this cannot be more simpler. Download the jar file from here and run using command below.
+java -jar Halcyon_IDE_v2.0.1jar  Installing from Source You can also download the source from git and free to compile the project in your own machines.
+# install dependencies apt-get install default-jre apt-get install ant # clone from git cd /opt git clone https://github.</description>
+    </item>
+    
+  </channel>
+</rss>
