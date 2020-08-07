@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: halcyon-ide.org
+Token: 3081742d8cdbdda25059f8dcc42979fae441a23145f034a5c51cfae448f6369c
