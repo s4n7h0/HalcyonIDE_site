@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/s4n7h0
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://halcyon-ide.org
+  * I am s4n7h0 (https://keybase.io/s4n7h0) on keybase.
+  * I have a public key ASBbU2HlT7KVmWpC-VXzUsSYLQxqGhORXBNIOfevb-4hAgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205b5361e54fb295996a42f955f352c4982d0c6a1a13915c134839f7af6fee21020a",
+      "host": "keybase.io",
+      "kid": "01205b5361e54fb295996a42f955f352c4982d0c6a1a13915c134839f7af6fee21020a",
+      "uid": "2222f657b4b28c4d642aabe1239c8b19",
+      "username": "s4n7h0"
+    },
+    "merkle_root": {
+      "ctime": 1596824618,
+      "hash": "1f70b748afcc071d25af5561965a867a3e9a58f048ba803a00049cb176312beed5a23c60ace2b833b03d78d4e818a7ac4ad350932c880cf1cc803f7e3ebabb34",
+      "hash_meta": "8a87bf769cf9208b73ddc5c1383f8f0c81a2b5fc74bc2960d408779f8edee600",
+      "seqno": 17218195
+    },
+    "service": {
+      "entropy": "RA09WR/dUwcMyrUWWPOr7Vqn",
+      "hostname": "halcyon-ide.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1596824646,
+  "expire_in": 504576000,
+  "prev": "28f8a797fbeb8805cdaeffd6d2538d64c600d393f507ba57ec8a9e49fd575b16",
+  "seqno": 96,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgW1Nh5U+ylZlqQvlV81LEmC0MahoTkVwTSDn3r2/uIQIKp3BheWxvYWTESpcCYMQgKPinl/vriAXNrv/W0lONZMYA05P1B7pX7IqeSf1XWxbEIDuzFdNOS1zIbkPgHflBxcDQCh8aCaVsCTYichTYg+hXAgHCo3NpZ8RASm8V48bVYpwPNCyDJEE/nNN4WOO1q72SNJ2FbQ1phyz7afJRQG17Axec85UKYDHiEkitW1HFoOsgsSP1ezVTAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBtdiOT+pBo6/wx92w2NaYuVA+T6nH6Z8jtrNfzFES7ao3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/s4n7h0
+
+==================================================================
