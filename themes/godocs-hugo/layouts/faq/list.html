@@ -1,0 +1,40 @@
+{{ define "main" }}
+
+
+{{ with .Site.GetPage "/faq" }}
+<section class="section pb-0">
+  <div class="container">
+    <h2 class="section-title">{{ .Title }}</h2>
+    <div class="row masonry-wrapper">
+      {{ .Content }}
+    </div>
+  </div>
+</section>
+{{ end }} 
+
+<!-- call to action -->
+{{ if .Site.Params.call_to_action.enable }}
+{{ with .Site.Params.call_to_action }}
+<section class="section">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-4 text-center d-lg-block d-none">
+        <img src="{{ .image| absURL }}" class="img-fluid" alt="">
+      </div>
+      <div class="col-lg-8 text-lg-left text-center">
+        <h2 class="mb-3">{{ .title | markdownify }}</h2>
+        <p>{{ .content | markdownify }}</p>
+        {{ if .button.enable }}
+        {{ with .button }}
+        <a href="{{ .link | absLangURL }}" class="btn btn-primary">{{ .label }}</a>
+        {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /call to action --> 
+
+{{ end }}
