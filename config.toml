@@ -104,7 +104,7 @@ weight = 2
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "This is meta description"
+description = "Halcyon IDE, An IDE for Nmap Script Development, Nmap Script Engine, NSE, Integrated Development Environment, Nmap, Network Mapping, Network Security, Port scanning, Script Development, IDE"
 author = "Sanoop Thomas (s4n7h0)"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
@@ -166,39 +166,12 @@ image = "images/banner.png"
 enable = true
 title = "Still Didn't Find Your Answer?"
 image = "images/question.png"
-content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam <br> nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
+content = "Submit a ticket on the github project page."
 
   # call to action button
   [Languages.en.call_to_action.button]
   enable = "true"
   label = "Submit a ticket"
-  link = "contact"
+  link = "https://github.com/s4n7h0/Halcyon-IDE/issues/new"
 
-
-################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-weight = 2
-home = "Accueil"
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
-
-# banner
-[Languages.fr.banner]
-title = "Documentation Theme By Themefisher Team"
-subtitle = "Lorem ipsum dolor amet, consetetur sadiffspscing elitr, diam nonumy invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua At."
-image = "images/banner.jpg"
-
-# call to action
-[Languages.fr.call_to_action]
-enable = true
-title = "Still Didn't Find Your Answer?"
-image = "images/cta-illustration.jpg"
-content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam <br> nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
-
-  # call to action button
-  [Languages.fr.call_to_action.button]
-  enable = "true"
-  label = "Submit a ticket"
-  link = "contact"
+ 
